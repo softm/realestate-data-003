@@ -3,11 +3,16 @@
   "repository": "softm/realestate-data-003",
   "runId": "46068104375",
   "runUrl": "https://github.com/softm/realestate-data-003/actions/runs/46068104375",
-  "status": "running",
-  "collectionStatus": "running",
+  "status": "failed",
+  "collectionStatus": "failed",
   "event": "schedule",
   "startedAt": "2026-11-27T21:06:46.871405+00:00",
-  "updatedAt": "2026-11-27T21:06:46.871405+00:00",
-  "expiresAt": "2026-11-27T21:31:46.871405+00:00",
-  "message": "실제 수집 실행 중"
+  "finishedAt": "2026-11-27T21:17:52.570449+00:00",
+  "updatedAt": "2026-11-27T21:21:51.360886+00:00",
+  "expiresAt": null,
+  "requests": 222,
+  "success": 0,
+  "failed": 222,
+  "stopReason": "TIME_BUDGET",
+  "message": "수집 오류·점검 필요"
 }
